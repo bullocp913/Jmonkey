@@ -36,3 +36,5 @@ libraryDependencies += "com.jme3" % "jme3-blender" % "3.0.+"
 libraryDependencies += "com.jme3" % "jme3-jbullet" % "3.0.+"
 
 libraryDependencies += "com.jme3" % "jme3-niftygui" % "3.0.+"
+
+libraryDependencies += "net.sf.sociaal" % "jME3-testdata" % "3.0.0.20130526"
